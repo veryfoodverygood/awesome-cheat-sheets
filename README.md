@@ -83,9 +83,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ![Mac](./attach/sublime_text_2_shortcuts_for_mac.png)
 
-### [Sublime Regular Expressions]
+### Sublime Regular Expressions
 
-A regular expression specifies a set of strings that matches it. This cheat sheet is based off Python 3's Regular Expressions (http://docs.python.org/3/library/re.html) but is designed for searches within Sublime Text.
+A regular expression specifies a set of strings that matches it. This cheat sheet is based off Python 3's Regular Expressions (http://docs.python.org/3/library/re.html) but is designed for searches within Sublime Text. This code was originally forked from [David Mikalova](https://github.com/dmikalova)
 
 ```
 Special Characters
